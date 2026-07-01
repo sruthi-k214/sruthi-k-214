@@ -24,7 +24,7 @@
 
 📫 Reach me at
 
-Email: yourmail@gmail.com
+Email: sruthikokkirala73@gmail.com
 
 LinkedIn:
-https://linkedin.com/in/yourprofile
+https://linkedin.com/in/sruthi-kokkirala
