@@ -17,14 +17,10 @@
 
 🚀 Projects
 - Movie Reviews Sentiment Analysis
-- Fake News Detection
-- Customer Churn Prediction
-- Resume Screening System
-- ServiceNow Workflow Automation
+- Personal Expense Tracker
+  
 
 📫 Reach me at
-
 Email: sruthikokkirala73@gmail.com
-
 LinkedIn:
 https://linkedin.com/in/sruthi-kokkirala
