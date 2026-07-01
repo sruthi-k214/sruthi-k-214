@@ -11,8 +11,8 @@
 
 🌱 Currently Learning
  - Machine Learning
- - Servicenow ITSM 
- - 
+ - Servicenow ITSM
+ - Flow Designer
 
 
 🚀 Projects
